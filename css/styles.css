@@ -2,7 +2,6 @@ body {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
-line-height: 24px;
 letter-spacing: 2%;
 color: #434455;
 background-color: #fff;
@@ -20,7 +19,6 @@ a {
 font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
@@ -31,7 +29,6 @@ color: #4d5ae5;
 font-family: "Raleway", sans-serif; 
 font-weight: 700;
 font-size: 18px;
-line-height: 1.16667;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42; 
@@ -40,16 +37,12 @@ color: #2e2f42;
 .nav-list a {
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
 .nav-address a {
  font-weight: 400;
  font-size: 16px;
- line-height: 1.5;
-letter-spacing: 0.02em;
 color: #434455;
 }
 
@@ -69,23 +62,16 @@ text-decoration: underline;
 .start-page-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
-letter-spacing: 0.02em;
-text-align: center;
 Color: #ffff; 
 }
 
 button {
-width: 169px;
-height: 56px;
 background: #4d5ae5;
 }
 
 .button-text {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
     color: #fff;
 }
 
@@ -96,16 +82,12 @@ background: #4d5ae5;
 h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
 .descr {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
     color: #434455;
     
 }
@@ -113,17 +95,12 @@ h3 {
 h2  {
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
-letter-spacing: 0.02em;
-text-align: center;
 color: #2e2f42;
 }
 
 h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
@@ -134,8 +111,6 @@ h3 {
 .studio-logo {
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
 }
@@ -143,7 +118,5 @@ h3 {
 .text-footer {
 font-weight: 400;
 font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
 color: #f4f4fd;
 }

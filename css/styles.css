@@ -51,7 +51,8 @@ address {
 font-style: normal;
 }
 
-.mail {
+.mail,
+.tel {
  font-weight: 400;
  line-height: 1.5;
  letter-spacing: 0.02em;
@@ -59,12 +60,9 @@ font-style: normal;
 color: #434455;
 }
 
-.nav-list a:hover {
-    color: #404BBF; 
-}
 
-.nav-address a:hover,
-.nav-address a:focus {
+.mail:hover,
+.mail:focus {
     color: #404BBF;
 }
 
@@ -132,9 +130,9 @@ background-color: #404BBF
     background-color: #FFFFFF;   
 }
 
-.our-team h3 {
+.name {
     font-weight: 500;
-    fint-size: 20px;
+    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;

@@ -45,17 +45,20 @@ color: #2e2f42;
     color: #404bbf;
 }
  
-.nav-list a {
+.link {
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+address {
+font-style: normal;
+}
+
 .nav-address a {
  font-weight: 400;
  line-height: 1.5;
- font-style: normal;
  letter-spacing: 0.02em;
  font-size: 16px;
 color: #434455;
@@ -66,7 +69,7 @@ color: #434455;
 }
 
 .nav-address a:hover,
-.nav-list a:focus {
+.nav-address a:focus {
     color: #404BBF;
 }
 
@@ -75,7 +78,7 @@ color: #434455;
     background-color: #2e2f42;
 }
 
-.start-page h1 {
+ h1 {
 font-size: 56px;
 line-height: 1.07;
 text-align: center;
